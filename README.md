@@ -1,4 +1,4 @@
-<h1 align="center">Chisel Learning Notice </h1>
+<h1 align="center">Chisel Learning Note </h1>
 
 <h3>语言学习</h3>
 
